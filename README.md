@@ -15,7 +15,6 @@
 | 4   | print statement(color)              | `day4` | 
 |     |                        |                        |                        |
 
-<!-- keep adding! -->
 
 ---
 
